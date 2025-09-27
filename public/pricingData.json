@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 29,
+    "duration": "per month",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 free personal training session",
+      "Free Wi-Fi",
+      "Flexible workout hours",
+      "Access to cardio zone"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 49,
+    "duration": "per month",
+    "features": [
+      "All Basic features",
+      "Unlimited group classes",
+      "Nutrition consultation",
+      "Priority locker access",
+      "Free fitness assessment",
+      "Access to weight training zone",
+      "Yoga & Zumba classes"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 79,
+    "duration": "per month",
+    "features": [
+      "All Standard features",
+      "Unlimited personal training",
+      "Sauna & spa access",
+      "Diet plan customization",
+      "Sports massage sessions",
+      "Private locker with shower facility",
+      "24/7 gym access"
+    ]
+  }
+]
