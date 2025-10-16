@@ -59,6 +59,21 @@
     ]
   },
   {
+    "id": 2,
+    "name": "Standard",
+    "price": 49,
+    "duration": "per month",
+    "features": [
+      "All Basic features",
+      "Unlimited group classes",
+      "Nutrition consultation",
+      "Priority locker access",
+      "Free fitness assessment",
+      "Access to weight training zone",
+      "Yoga & Zumba classes"
+    ]
+  },
+  {
     "id": 3,
     "name": "Premium",
     "price": 79,
